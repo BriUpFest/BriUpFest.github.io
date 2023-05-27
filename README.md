@@ -1,2 +1,1 @@
-# BriUpFest.github.io
-Beccati questo
+BriUp 2023 - backinthegamestrnz
